@@ -9,7 +9,7 @@ A Skatepark Showcase
 
 <h3 align="left">About this project:</h3>
 <p align="left">
-A fun project made to demonstrate and practice my HTML and CSS skills.
+A fun project made to demonstrate and practice my HTML and CSS skills. The site is a portfolio of skatepark pictures, of which each can be clicked on and viewed. All the pictures displayed on the page were taken by me! 
 </p>
 
 <h3 align="left">Quick facts about this project:</h3>
