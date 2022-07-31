@@ -9,7 +9,7 @@
 
 <h3 align="left">About this project:</h3>
 <p align="left">
-A fun project made to demonstrate and practice my HTML and CSS skills. The site is a portfolio of skatepark pictures, of which each can be clicked on and viewed. All of the photo's used for this project are my own.
+A fun project that allowed me to demonstrate and practice my HTML and CSS skills. The site is a portfolio of skatepark pictures, of which each can be clicked on and viewed. All of the photo's used for this project are my own.
 </p>
 
 <h3 align="left">Quick facts about this project:</h3>
